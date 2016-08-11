@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable/border_shadow2.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable/border_shadow2.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable/list_item_bg_normal.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable/list_item_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable/list_selector.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable/border_shadow.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable/border_shadow.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable/actionbar_icon_placeholder_compat.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable/actionbar_icon_placeholder_compat.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable/actionbar_shadow.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable/actionbar_shadow.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable/navigation_drawer_shadow.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable/navigation_drawer_shadow.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable/list_item_bg_pressed.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable/list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/drawable/indicator_corner_bg.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/drawable/indicator_corner_bg.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/addiction_test.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/addiction_test.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/get_help.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/get_help.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/tempted.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/tempted.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/home.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/home.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/about_us.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/about_us.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/nav_drawer_list_item.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/nav_drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/nav_drawer_main.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/nav_drawer_main.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/contact_us.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/contact_us.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/contact.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/contact.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/testimonies.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/testimonies.xml"
+    },
+    {
+        "merged": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/Users/Yared/Documents/workspace/Netsa Hiwot/app/src/main/res/layout/splash.xml"
+    }
+]

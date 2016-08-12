@@ -9,7 +9,6 @@ import android.content.Intent;
 import android.content.res.Configuration;
 import android.content.res.TypedArray;
 import android.graphics.drawable.ColorDrawable;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.app.FragmentActivity;
@@ -190,8 +189,8 @@ public class MainActivity extends FragmentActivity {
 		Fragment fragment = null;
 		switch (position) {
 		case 0:
-			fragment = new ActivityHome();
-			//startActivity(new Intent(getApplicationContext(), ActivityHome.class));
+			fragment = new FragmentHome();
+			//startActivity(new Intent(getApplicationContext(), FragmentHome.class));
 			//overridePendingTransition(R.anim.open_next, R.anim.close_next);
 			break;
 		case 1:

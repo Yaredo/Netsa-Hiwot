@@ -12,6 +12,6 @@
     android:paddingTop="10dp"
     android:stretchMode="columnWidth"
     android:verticalSpacing="1dp"
-    tools:context="com.solodroid.ecommerce.ActivityHome">
+    tools:context="com.solodroid.ecommerce.FragmentHome">
 
 </GridView>
